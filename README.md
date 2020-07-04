@@ -1,2 +1,3 @@
 # DjangoProject
-Implementing what I learn in Django, (usage of dockers)
+
+Sample App for hands-on on Django.
